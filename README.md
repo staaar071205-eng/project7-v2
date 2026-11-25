@@ -1,5 +1,8 @@
 # Project 7 - MVC dengan Login
 
+Riski Amanda                                        
+NIM : 0702243150                                                        
+Dosen : Suhendri, M.Kom MataKuliah : Programan Berbasis Web Lanjutan                                                            
 Project ini adalah pengembangan Project 6 dengan login dan CRUD User.
 
 ## Struktur
